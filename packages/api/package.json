@@ -17,7 +17,7 @@
     "express": "^4.17.1",
     "lodash.groupby": "4.6.0",
     "lodash.zip": "4.2.0",
-    "mongodb": "3.2.6"
+    "mongodb": "3.7.3"
   },
   "devDependencies": {
     "@types/mongodb": "3.1.27",
