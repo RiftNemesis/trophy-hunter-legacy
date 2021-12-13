@@ -12,7 +12,7 @@
   },
   "dependencies": {
     "axios": "0.21.1",
-    "axios-cache-adapter": "^2.3.2",
+    "axios-cache-adapter": "^2.7.3",
     "compression": "^1.7.4",
     "express": "^4.17.1",
     "lodash.groupby": "4.6.0",
