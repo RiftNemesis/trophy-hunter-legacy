@@ -25,7 +25,7 @@
     "react": "16.8.6",
     "react-dom": "16.8.6",
     "react-swipeable-views": "0.13.3",
-    "react-swipeable-views-utils": "0.13.3"
+    "react-swipeable-views-utils": "0.13.9"
   },
   "devDependencies": {
     "@types/classnames": "^2.2.7",
