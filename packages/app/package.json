@@ -38,7 +38,7 @@
     "markdown-it": "8.4.2",
     "material-ui": "0.20.2",
     "meteor-deque": "2.1.0",
-    "meteor-node-stubs": "0.4.1",
+    "meteor-node-stubs": "1.2.8",
     "meteor-publish-join": "1.1.7",
     "moment": "2.24.0",
     "patreon": "0.4.1",
